@@ -3,6 +3,6 @@
 - Bridge [x]
 - Composite [x]
 - Decorator [x]
-- Facade []
+- Facade [x]
 - Cache []
 - Proxy []

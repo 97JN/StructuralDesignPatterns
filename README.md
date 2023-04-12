@@ -1,7 +1,7 @@
 7 structural design patterns:
 - Adapter [x]
 - Bridge [x]
-- Composite []
+- Composite [x]
 - Decorator []
 - Facade []
 - Cache []

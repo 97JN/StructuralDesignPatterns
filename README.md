@@ -4,5 +4,5 @@
 - Composite [x]
 - Decorator [x]
 - Facade [x]
-- Cache []
+- Flyweight []
 - Proxy []

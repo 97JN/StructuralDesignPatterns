@@ -2,7 +2,7 @@
 - Adapter [x]
 - Bridge [x]
 - Composite [x]
-- Decorator []
+- Decorator [x]
 - Facade []
 - Cache []
 - Proxy []

@@ -5,4 +5,4 @@
 - Decorator [x]
 - Facade [x]
 - Flyweight []
-- Proxy []
+- Proxy [x]

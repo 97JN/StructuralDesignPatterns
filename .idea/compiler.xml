@@ -9,9 +9,13 @@
         <module name="Decorator" />
         <module name="Adapter" />
         <module name="Facade" />
+        <module name="Proxy" />
         <module name="Composite" />
         <module name="Bridge" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Flyweight" target="17" />
+    </bytecodeTargetLevel>
   </component>
 </project>
